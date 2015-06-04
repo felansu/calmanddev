@@ -1,9 +1,9 @@
-package padroesprojeto.abstractfactorymethod;
+package padroesprojeto.abstractfactorymethod.exemploPost;
 
-import padroesprojeto.abstractfactorymethod.model.Animal;
-import padroesprojeto.abstractfactorymethod.model.AnimalDoenteComunicator;
-import padroesprojeto.abstractfactorymethod.model.AnimalSaudavelComunicator;
-import padroesprojeto.abstractfactorymethod.model.ComunicadorFactory;
+import padroesprojeto.abstractfactorymethod.exemploPost.model.Animal;
+import padroesprojeto.abstractfactorymethod.exemploPost.model.AnimalDoenteComunicator;
+import padroesprojeto.abstractfactorymethod.exemploPost.model.AnimalSaudavelComunicator;
+import padroesprojeto.abstractfactorymethod.exemploPost.model.ComunicadorFactory;
 
 /**
  * Created by felansu on 31/05/2015.

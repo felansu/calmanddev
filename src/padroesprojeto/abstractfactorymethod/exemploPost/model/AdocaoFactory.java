@@ -1,4 +1,4 @@
-package padroesprojeto.abstractfactorymethod.model;
+package padroesprojeto.abstractfactorymethod.exemploPost.model;
 
 /**
  * Created by felansu on 31/05/2015.
@@ -14,7 +14,7 @@ public class AdocaoFactory {
         } else if (tipo == 2) {
             return new AdocaoAnimalSaudavel();
         } else {
-            throw new IllegalArgumentException("Tipo de saúde não encontrada !");
+            throw new IllegalArgumentException("Tipo de saï¿½de nï¿½o encontrada !");
         }
     }
 }
